@@ -1,0 +1,516 @@
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/6/66/Tv_verdes_mares.png/revision/latest?cb=20140408150355" group-title="ABERTOS", VERDES MARES SD
+http://b2p.li:80/jefersonmx/jefersonmmmss/25448
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/6/66/Tv_verdes_mares.png/revision/latest?cb=20140408150355" group-title="ABERTOS", VERDES MARES SD 2
+http://p2stv.me:80/live/1662/1234/8673.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="ABERTOS", GLOBO SP HD
+http://pfsv.io:80/5681151/64693/354
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="ABERTOS", GLOBO SP SD
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/globosp_cfe21c68_f36526b24bef7ff3936ac0827ba3c61fd040f1be/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMjMzLjE0NC4xOTgiO2k6MTtzOjE2MDoiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgOTsgTE0tWDQyMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC4yMTYgWWFCcm93c2VyLzIxLjUuMy4wLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYyMzQyMjU3Mjt9
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="ABERTOS", GLOBO SP HD
+http://pfsv.io:80/25048008/67555/394
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="ABERTOS", GLOBO RJ HD
+http://pfsv.io:80/1245095/96252/392
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/rede-globo-logo-0.png" group-title="ABERTOS", GLOBO RJ 4k
+http://live.video.globo.com/h/1402196682759012345678915746027599876543210hM4EA1neMoQoIiUyVn1TNg/k/app/a/A/u/anyone/d/s/hls-globo-rj/hls-globo-rj_2359/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="ABERTOS", BAND FHD
+http://5cf4a2c2512a2.streamlock.net:1935/rbatv/rbatv/chunklist_w570496199.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2014/02/band-logo-0.png" group-title="ABERTOS", BAND SD
+http://p2stv.me:80/live/1662/1234/13699.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo.png" group-title="ABERTOS", RECORD
+https://2d03lw.janjua.pw:8088/live/aovivotudo_record/playlist.m3u8?vidictid=187851889995&id=89369&pk=90cb53f8b310ad5099a340d121c25e9589e9214af4e95d09de9df137b3a68000
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rba.png" group-title="ABERTOS", Band - RBA TV (PA)
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/arapuam.png" group-title="ABERTOS", RedeTV! TV Arapuan HD (PB)
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/playlist.m3u8?DVR
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redetvtocantins.png" group-title="ABERTOS", RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/tv_evangelizar.png" group-title="Religioso", TV Evangelizar 2
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/200px-rede_vida_logo.png" group-title="Religioso", Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/2018091805332321logotipo_da_tv_aparecida.png" group-title="Religioso", TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/seculo21.png" group-title="Religioso", Rede Século 21
+https://d1gs793b1l6k9i.cloudfront.net/out/v1/a3aac39375df40a1a564635d7b41e90c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/rede-super-logo-tv.png" group-title="Religioso", Rede Super
+http://api.new.livestream.com/accounts/10205943/events/3429501/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/izkxzj9.png" group-title="Religioso", Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/nt8hdct.png" group-title="Religioso", IMPD TV
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/ainraga.png" group-title="Religioso", IURD TV
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/redegospel.png" group-title="Religioso", Rede Gospel
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/paieterno.png" group-title="Religioso", TV Pai Eterno
+https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/smilinguido.png" group-title="INFANTIL", Gospel Cartoon
+https://stmv1.srvstm.com/gospelcartoon2/gospelcartoon2/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://listaiptv.gratis/logos/imagens/retro-tv.png" group-title="INFANTIL", Retrô Cartoon
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="INFANTIL", NICK RETRÔ PLUTO TV
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121460b73ac6000719fbaf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=706&deviceId=5f121460b73ac6000719fbaf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=-23.5475&deviceLon=-46.6361&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=BR&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/discovery-kids-logo.png" group-title="INFANTIL", DISCOVERY KIDS
+http://pfsv.io:80/FZ1Zb1s/iMGurL.me/140
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0.png" group-title="ABERTOS", SBT
+http://assistirpainel.ddns.net:8880/DaniloTiitus/DaniloTiitusG/7179
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/1920px-TV_Di%C3%A1rio_logo.svg.png" group-title="ABERTOS", TV DIARIO FHD
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYguHPeHwqc2jqZS0-pHL3c)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/1920px-TV_Di%C3%A1rio_logo.svg.png" group-title="ABERTOS", TV DIARIO SD
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYguHPeHwqc2jqZS0-pHL3c)/dm/3/x7txn7q/s/live-2.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/TV_Di%C3%A1rio_logo.svg/1920px-TV_Di%C3%A1rio_logo.svg.png" group-title="ABERTOS", TV DIARIO HD
+https://stream-04.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZYguHPeHwqc2jqZS0-pHL3c)/dm/3/x7txn7q/s/live-3.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/66/TV_Evangelizar_logo_2019.png" group-title="ABERTOS", TV EVANGELIZAR
+https://5f593df7851db.streamlock.net/evangelizar/tv/chunklist_w1913377523.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/12/cancao-nova-logo-4.png" group-title="ABERTOS", CANCAO NOVA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/25.m3u8
+
+#EXTINF:-1 tvg-logo="https://colunadatv.com/wp-content/uploads/2017/01/logo-da-redetv.png" group-title="ABERTOS", REDE TV
+https://hls.brasilstream.com.br/live/redetves/redetves/mono.m3u8?token=6410329353875642000
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvjangadeiro.png" group-title="ABERTOS", TV JANGADEIRO HD
+https://evpp.mm.uol.com.br/ne10/ne10.smil/chunklist_w856232510_b216000_sleng.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvjangadeiro.png" group-title="ABERTOS", TV JANGADEIRO SD
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/chunklist_w1695494603_b1000000.m3u8
+
+#EXTINF:-1 tvg-logo="http://yesportal.online/viva.png" group-title="VARIEDADES", VIVA
+https://2d03lw.janjua.pw:8088/live/aovivotudo_viva/playlist.m3u8?vidictid=187874105105&id=89386&pk=90cb53f8b310ad5099a340d121c25e9589e9214af4e95d09de9df137b3a68000
+
+#EXTINF:-1 tvg-logo="http://yesportal.online/viva.png" group-title="VARIEDADES", VIVA HD
+http://50.7.34.155:2200/BR/Viva_HD-br/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/nick-jr-logo.png" group-title="INFANTIL", NICK JÚNIOR
+http://199.127.62.234:2082/streams/139_.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png" group-title="FILMES", TELECINE ACTION
+http://fstplay.me:80/34289415/35612068/154501
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png" group-title="FILMES", TELECINE FUN
+http://fstplay.me:80/34289415/35612068/14084
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png" group-title="FILMES", TELECINE PREMIUM
+http://fstplay.me:80/34289415/35612068/14086
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png" group-title="FILMES", TELECINE TOUCH
+https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/telecinetouch_74cbd2c2_eecb589e82e6492071edc3ba11d2a392e1ad294b/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTcyLjY4LjI2LjkzIjtpOjE7czoxNjE6Ik1vemlsbGEvNS4wIChMaW51eDsgYXJtOyBBbmRyb2lkIDk7IExNLVg0MjApIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MC4wLjQ0MzAuMjE2IFlhQnJvd3Nlci8yMS41LjMuNjIuMDAgKGFscGhhKSBTQS8zIE1vYmlsZSBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIzOTU0ODg5O30%3D
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png" group-title="FILMES", TELECINE PIPOCA
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/telecinepipoca_fd937516_17f408431fadc42fc860e239a81deb0bbd2f30cd/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTcyLjY4LjI2LjUzIjtpOjE7czoxNjE6Ik1vemlsbGEvNS4wIChMaW51eDsgYXJtOyBBbmRyb2lkIDk7IExNLVg0MjApIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MC4wLjQ0MzAuMjE2IFlhQnJvd3Nlci8yMS41LjMuNjIuMDAgKGFscGhhKSBTQS8zIE1vYmlsZSBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIzOTU1MDM5O30%3D
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/telecine-logo-0.png" group-title="FILMES", TELECINE CULT
+https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/telecinecult_8d255e1e_cc3f2b77d53bb3dbedc8c0e31759bad7a0d2d365/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTcyLjY4LjI0Ljg1IjtpOjE7czoxNjE6Ik1vemlsbGEvNS4wIChMaW51eDsgYXJtOyBBbmRyb2lkIDk7IExNLVg0MjApIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MC4wLjQ0MzAuMjE2IFlhQnJvd3Nlci8yMS41LjMuNjIuMDAgKGFscGhhKSBTQS8zIE1vYmlsZSBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIzOTU1MTYxO30%3D
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTE", PREMIERE CLUBE
+http://pfsv.io:80/843427000/2062/544
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTE", PREMIERE 2
+http://b5.vc:80/472140/eCtqK9/72240
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTE", PREMIERE 2 HD
+http://ed8.oknirvana.club:8880/14m16462/4SD9BAVRF4/2457
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTE", PREMIERE 3
+http://dnsl.me:80/Leandro2021/2021leandro/63940
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTE", PREMIERE 4
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/premiere4_142e9ae3_fa4cec9b3815f5f75edc6ceeac37b772dd22fbe2/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjY4LjI1LjE5NCI7aToxO3M6MTYxOiJNb3ppbGxhLzUuMCAoTGludXg7IGFybTsgQW5kcm9pZCA5OyBMTS1YNDIwKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTAuMC40NDMwLjIxNiBZYUJyb3dzZXIvMjEuNS4zLjYyLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYyMzk0MDU3Nzt9
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTE", PREMIERE 5
+http://assistirpainel.ddns.net:8880/s483tjrhagc/kswvxdrgcj8/22201
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTE", PREMIERE 6
+http://dnsl.me:80/Leandro2021/2021leandro/4057
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTE", PREMIERE 7
+http://pfsv.io:80/8092863/74963/30290
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="ESPORTE", SPORTV 4k
+http://b2p.li:80/jefersonmx/jefersonmmmss/174634
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="ESPORTE", SPORTV FHD
+http://cdnrede.com:80/Ernica/205913/172415
+ 
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="ESPORTE", SPORTV SD
+http://5ce.me:80/jean119492/jean119/6481
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="ESPORTE", SPORTV 2
+http://svrhost.club:80/Renato21/A7C9TJJXO/1814?tkn=1620914490
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png" group-title="ESPORTE", SPORTV 2 HD
+http://disfruta.net:80/vBpJPxSpU9/VVG4CP12gs/3259
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo.png" group-title="ESPORTE", SPORTV 3
+http://tv.factoryiptv.com:80/xKkHz2Jckd/factoryiptv/38394
+
+#EXTINF:-1 tvg-logo="https://www.gratispng.com/png-u6ib3d/download.html" group-title="ESPORTE", BAND SPORTS
+http://srv.mtvs.me:8880/Brasil202020/1234567890/29021
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPORTE", ESPN BRASIL HD
+http://srvtv.online:2082/User501234/MVt25589/4533
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-brasil-logo.png" group-title="ESPORTE", ESPN BRASIL
+http://udq.me:80/live/hbSKTM2Cwm/4239353338/4091.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="ESPORTE", FOX SPORTS HD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_2000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/10/fox-sports-logo.png" group-title="ESPORTE", FOX SPORTS SD
+https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs3/vintequatrohrs3_1000/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rede-globo-logopedia-2/images/6/66/Tv_verdes_mares.png/revision/latest?cb=20140408150355" group-title="ABERTOS", VERDES MARES HD
+http://b2p.li:80/jefersonmx/jefersonmmmss/172646
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/tvbrasil2.png" group-title="ABERTOS", TV BRASIL 2
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/135.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/tvbrasil.png" group-title="ABERTOS", TV BRASIL
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/134.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/tvcamara.png" group-title="ABERTOS", TV CÂMARA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/136.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/tvescola.png" group-title="ABERTOS", TV ESCOLA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/137.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/tvjustica.png" group-title="ABERTOS", TV JUSTIÇA FHD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/138.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/tvsenado.png" group-title="ABERTOS", TV SENADO FHD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/139.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/discoverytheater.png" group-title="DOCUMENTÁRIOS", DISCOVERY THEATER FHD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/39.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/tlcdiscovery.png" group-title="DOCUMENTÁRIO", DISCOVERY TLC FHD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/40.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/discoveryturbo.png" group-title="DOCUMENTÁRIOS", DISCOVERY TURBO FHD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/41.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/discoveryworld.png" group-title="DOCUMENTÁRIOS", DISCOVERY WORLD FHD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/42.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/disneychannel.png" group-title="INFANTIL", DISNEY CHANNEL FHD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/45.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/disneyjr.png" group-title="INFANTIL", DISNEY JR FHD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/46.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/disneyxd.png" group-title="INFANTIL", DISNEY XD FHD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/47.m3u8
+
+#EXTINF:-1 tvg-logo="http://yesportal.online/tooncast1.png" group-title="INFANTIL", TOONCAST SD
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/tooncast_8effee40_1198650809854a6e0b674c4040313ae487b2082e/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMjMzLjE0NC4xOTgiO2k6MTtzOjE2MDoiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgOTsgTE0tWDQyMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC4yMTYgWWFCcm93c2VyLzIxLjUuMy4wLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYyMzQyMzg5Mjt9
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/natgeo.png" group-title="DOCUMENTÁRIOS", NAT GEO FHD
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/78.m3u8
+
+#EXTINF:-1 tvg-logo="http://yesportal.online/history.png" group-title="DOCUMENTÁRIOS", HISTORY CHANNEL HD
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/history_b7eb6c68_95c1f80167cbaf4dca3617f898774cb95b54e5a6/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMjMzLjE0NC4xOTgiO2k6MTtzOjE2MDoiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgOTsgTE0tWDQyMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC4yMTYgWWFCcm93c2VyLzIxLjUuMy4wLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYyMzQyNDc0Mzt9
+
+#EXTINF:-1 tvg-logo="http://yesportal.online/history2.png" group-title="DOCUMENTÁRIOS", HISTORY 2 HD
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/h2_2bfba6b3_f5c986a33268aae562760c7bf11a1079f5a4bed3/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMjMzLjE0NC4xOTgiO2k6MTtzOjE2MDoiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgOTsgTE0tWDQyMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC4yMTYgWWFCcm93c2VyLzIxLjUuMy4wLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYyMzQyNDgzODt9
+
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/natgeo.png" group-title="DOCUMENTÁRIOS", NAT GEO SD
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="DOCUMENTÁRIOS", ANIMAL PLANET HD
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/animalplanet_e114c448_dee5c8fcb44628b4a9ed1f8e64e27d1ce1a290bb/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMjMzLjE0NC4xOTgiO2k6MTtzOjE2MDoiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgOTsgTE0tWDQyMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC4yMTYgWWFCcm93c2VyLzIxLjUuMy4wLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYyMzQyMzYxMzt9
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/redemetropole.png" group-title="ABERTOS", REDE METROPOLE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/99.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/redeminas.png" group-title="ABERTOS", REDE MINAS
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/101.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/redetv.png" group-title="ABERTOS", REDE TV
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/102.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/redevida.png" group-title="ABERTOS", REDE VIDA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/103.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/sbtminas.png" group-title="ABERTOS", SBT ALTEROSA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/104.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/redeseculo21.png" group-title="ABERTOS", SECULO 21
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/106.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/space.png" group-title="FILMES", SPACE
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/110.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/tcm.png" group-title="FILMES", TCM
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/112.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/tntseries.png" group-title="FILMES", TNT SÉRIES
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/117.m3u8
+
+#EXTINF:-1 tvg-logo="http://168.205.87.198/logocanais/tnt.png" group-title="FILMES", TNT
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/116.m3u8
+
+#EXTINF:-1 tvg-1="http://168.205.87.198/logocanais/tvaparecida.png" group-title="ABERTOS", TV APARECIDA
+http://168.205.87.198:8555/live/viniciusvieira/vieira123/131.m3u8
+#EXTINF:-1 tvg-logo="https://imgur.com/JSs5V3b.png" group-title="Pluto TV Brasil", Guia de Canais
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97848732-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=051f3c1e-eeef-459d-b6b9-8b3a25af4b87&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/6k7cOAE.png" group-title="Pluto TV Brasil", Pluto TV Cine Sucessos
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120e94a5714d00074576a1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e45a0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=52960630-50b9-4a4d-b84b-6ed25b88774b&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/8Vr6580.png" group-title="Pluto TV Brasil", Pluto TV Filmes Ação
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f120f41b7d403000783a6d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977e93c0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=860dbb8f-a84f-4853-b147-60207c674abf&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fUCGYqp.png" group-title="Pluto TV Brasil", Pluto TV Cine Comédia
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12101f0b12f00007844c7c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=07b16472-d071-4d2e-ad98-ab98754a4428&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/q17ntdH.png" group-title="Pluto TV Brasil", Pluto TV Cine Drama
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ebad1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e2a43ad8-1b74-43eb-8a1c-af669d97a71e&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/K9gHNmZ.png" group-title="Pluto TV Brasil", Filmes Suspense
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171d3442a0500007362f22/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c810-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=34b16d8e-8dce-4632-ba87-dabc2e07988f&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/CaNAHVg.png" group-title="Pluto TV Brasil", Pluto TV Cine Terror
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12111c9e6c2c00078ef3bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3ff7f4f3-233d-4e09-bbf7-e36a061d79f7&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/5f5a545d0dbf7f0007c09408/colorLogoPNG.png" group-title="Pluto TV Brasil", Pluto TV Filmes Nacionais
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a545d0dbf7f0007c09408/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a5762a61-77db-11eb-bfcd-e755c619a901&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8784fb7f-5209-406d-b66a-2fe035ee1a18&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/fyEgJ1g.png" group-title="Pluto TV Brasil", Pluto TV Cine Família
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f171f032cd22e0007f17f3d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c811-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=30398c0d-72c1-4ff3-927f-d52a8f3d9300&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="http://images.pluto.tv/channels/60072798dcf437000755b4f3/colorLogoPNG.png" group-title="Pluto TV Brasil", Paramount+ Apresenta
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60072798dcf437000755b4f3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=adce3d82-7ced-11eb-b41a-4d1db88b305b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c2058a6-297d-4b07-8c15-fcb77b9a2808&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/SIUu1eO.png" group-title="Pluto TV Brasil", Pluto TV Séries
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f121262a189a800076b9386/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d54d8e7b-d3f3-44cd-ac61-95ff7aa498d3&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Bxf8Gwu.png" group-title="Pluto TV Brasil", Pluto TV Retrô
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977ee1e2-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6493600-b3db-4363-8eef-3a781c72e728&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/mZlKac0.png" group-title="Pluto TV Brasil", Os Três Patetas
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1eed3c29b39600073e2ec0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=9781c812-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1cd1cf22-327f-4dee-80be-2eb8d58b2da9&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/Of1yJaj.png" group-title="Pluto TV Brasil", MTV Pluto TV
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1212fb81e85c00077ae9ef/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f0-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3887c04b-bb4b-49b8-8511-47613f5cadbb&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/u6zAeKw.png" group-title="Pluto TV Brasil", MTV Are you the One?
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6108d8cc331900075e98e4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821633-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1b9e931-6816-41d0-878e-e83836fbe919&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/y0Kdqtm.png" group-title="Pluto TV Brasil", People are Awesome
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f515d080e738d000739e19c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=97821630-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d3401ffe-5054-4e86-94f4-9056a358ddad&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/hPUry0Y.png" group-title="Pluto TV Brasil", Pluto TV Anime
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f12136385bccc00070142ed/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=977f08f1-629b-11eb-86b1-3facc9da388a&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cd3e6525-b694-489e-8ebf-063dda2defc0&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://imgur.com/046zDW4.png" group-title="Pluto TV Brasil", Naruto
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="FILMES", CINE BRASIL
+http://168.205.87.198:8555/live/elienecp/123456/145.ts
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="NOTÍCIAS", CNN BRASIL FHD
+http://168.205.87.198:8555/live/elienecp/123456/28.ts
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2019/07/cnn-brasil-logo-0.png" group-title="NOTÍCIAS", CNN BRASIL HD
+https://edge-aws.aovivotv.xyz/hls/s:78.46.240.155/cnnbrasil_db00e4fd_e42ed7cec6618f156a90874fb92326225555c3cc/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTcyLjY4LjI0Ljg1IjtpOjE7czoxNjE6Ik1vemlsbGEvNS4wIChMaW51eDsgYXJtOyBBbmRyb2lkIDk7IExNLVg0MjApIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MC4wLjQ0MzAuMjE2IFlhQnJvd3Nlci8yMS41LjMuNjIuMDAgKGFscGhhKSBTQS8zIE1vYmlsZSBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIzOTQwMDczO30%3D
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="ESPORTE", Estádio TNT Sports 1
+http://pfsv.io:80/2740175/62474/63125
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="ESPORTES", Estádio TNT Sports 2
+https://slvcs87g3x.akamaized.net/live/canal_02/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="ESPORTES", Estádio TNT Sports 3
+https://slvcs87g3x.akamaized.net/live/canal_03/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="ESPORTES", Estádio TNT Sports 4
+https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="ESPORTES", Estádio TNT Sports 5
+https://glxlmn026c.singularcdn.net.br/playout_02/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="ESPORTES", Estádio TNT Sports 6
+https://glxlmn026c.singularcdn.net.br/playout_03/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="ESPORTES", Estádio TNT Sports 7
+https://glxlmn026c.singularcdn.net.br/playout_04/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C9SpMkF.png" group-title="ESPORTES", Estádio TNT Sports 8
+https://glxlmn026c.singularcdn.net.br/playout_05/playlist-720p.m3u8
+
+#EXTINF:-1 tvg-logo="http://4.bp.blogspot.com/-yvBt5WYfG6c/Tzr83sXucuI/AAAAAAAAEbg/ZOSMhqFbbyM/s1600/RADIO_FM_O_DIA_RJ.png" group-title="Radios", FM O DIA TV
+https://live.cdn.upx.com/omms9/myStream.sdp/chunklist.m3u8?e2a00069e2fd21162d5493a071a89a5f
+
+#EXTINF:-1 tvg-logo="https://public-rf-upload.minhawebradio.net/650/mobileicon/ef3072346f4c1255e2a9e03d87a7a86f.png" group-title="Radios", BIGMIX
+https://servidor39-1.brlogic.com:8130/live
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mzdMmKP.jpg" group-title="NOTÍCIAS", RECORD NEWS SD
+https://playplusnews-lh.akamaihd.net/i/pp_nws@377849/index_360_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/171.png" group-title="NOTÍCIAS", BAND NEWS 
+http://pfsv.io:80/br3nopb/mrLn6YprYl/520
+
+#EXTINF:-1 tvg-logo="https://skycms.s3.amazonaws.com/images/45373714/40.png" group-title="NOTÍCIAS", GLOBO NEWS HD
+http://b5.vc:80/4sTEVhP6p/fireurl.co/71999
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radios", Rádio BandNews FM 90.7 Goiania
+https://evpp.mm.uol.com.br/band/bandnewsfm_bh/chunklist_w856629699.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radios", Rádio Itatiaia 610 AM 95.7 FM
+
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radios", Rádio Antena 1 Lite FM 103.7
+http://propdsrv.com:80/6t46xdex/gtnd3rn7/80826
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radios", Rádio Gaúcha AM 600 FM 93.7
+http://propdsrv.com:80/6t46xdex/gtnd3rn7/80827
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radios", Rádio Jovem Pan SP AM 620
+http://propdsrv.com:80/6t46xdex/gtnd3rn7/80828
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radios", CBN Grandes Lagos 90.9 FM
+http://propdsrv.com:80/6t46xdex/gtnd3rn7/80829
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radios", Rádio Onda Poços 96.7 FM
+http://propdsrv.com:80/6t46xdex/gtnd3rn7/80830
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radios", Radio Gospel Campinas
+http://propdsrv.com:80/6t46xdex/gtnd3rn7/80831
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radios", Rádio Nativa FM 95.3
+https://evpp.mm.uol.com.br/band/nativa_sp/chunklist_w55769629.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radios", Rádio Band FM 96.1
+https://evpp.mm.uol.com.br/band/bandfm_sp/chunklist_w736005058.m3u8
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radios", Transamérica 100.1 FM
+https://shout25.crossradio.com.br:19100/stream
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radios", 89 FM A Rádio Rock
+https://20823.live.streamtheworld.com/RADIO_89FM_ADP.aac
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radios", Rádio Mix FM 106.3
+https://18443.live.streamtheworld.com/MIXFM_SAOPAULOAAC.aac
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radios", Rádio Clube FM 105.5
+https://f47.fabricahost.com.br/clubefm1055bsb?f=1623331465N815b4a5e0ce31d8455d91a51a27124b4
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radios", LIDERANÇA FM
+https://webradio.amsolution.com.br/radio/8320/lideranca
+
+#EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Radios", 89.9 FM
+http://centova10.ciclanohost.com.br:9019/stream
+
+#EXTINF:-1 tvg-logo="http://yesportal.online/tnt.png" group-title="FILMES", TNT SD
+https://edge-aws.aovivotv.xyz/hls/s:116.203.140.64/tnt_9109c85a_49020bd384b997eb59c55ec2d68cd6ed6a8e6553/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMjMzLjE0NC4xOTgiO2k6MTtzOjE2MDoiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgOTsgTE0tWDQyMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC4yMTYgWWFCcm93c2VyLzIxLjUuMy4wLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYyMzQxNzc3Mjt9
+
+#EXTINF:-1 tvg-logo="http://yesportal.online/multishow.png" group-title="VARIEDADES", MULTISHOW HD
+http://b2p.li:80/jefersonmx/jefersonmmmss/21279
+
+#EXTINF:-1 tvg-logo="http://yesportal.online/gnt.png" group-title="VARIEDADES", GNT SD
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/gnt_c439c60b_30a421efcc36f001ecafa90e179615e67eeb1355/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMjMzLjE0NC4xOTgiO2k6MTtzOjE2MDoiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgOTsgTE0tWDQyMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC4yMTYgWWFCcm93c2VyLzIxLjUuMy4wLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYyMzQxODE0ODt9
+
+#EXTINF:-1 tvg-logo="http://yesportal.online/hbosignature.png" group-title="FILMES", HBO SIGNATURE HD
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/hbosignature_fa1a6512_b2a4124e1c2987a266c9963e111b199944f4a9f6/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMjMzLjE0NC4xOTgiO2k6MTtzOjE2MDoiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgOTsgTE0tWDQyMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC4yMTYgWWFCcm93c2VyLzIxLjUuMy4wLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYyMzQxODUwODt9
+
+#EXTINF:-1 tvg-logo="http://yesportal.online/hbopop.png" group-title="FILMES", HBO POP HD
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/hbopop_ce09b127_c532ea94e5d1dab814ae1010e93994c72036c6ae/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMjMzLjE0NC4xOTgiO2k6MTtzOjE2MDoiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgOTsgTE0tWDQyMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC4yMTYgWWFCcm93c2VyLzIxLjUuMy4wLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYyMzQxODYxODt9
+
+#EXTINF:-1 tvg-logo="http://yesportal.online/hboplus.png" group-title="FILMES", HBO PLUS HD
+http://disfruta.net:80/Qs8sjX6yhb/UGwAkdCGPH/2230
+
+#EXTINF:-1 tvg-logo="http://yesportal.online/hbo.png" group-title="FILMES", HBO HD
+http://pfsv.io:80/7040537/51936/474
+
+#EXTINF:-1 tvg-logo="http://yesportal.online/hbofamily.png" group-title="FILMES", HBO FAMILY SD¹
+https://edge-aws.aovivotv.xyz/hls/s:78.47.27.206/hbofamily_536fb693_ac54febfba13023b8318c0f9b4dffae5691830a5/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMjMzLjE0NC4xOTgiO2k6MTtzOjE2MDoiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgOTsgTE0tWDQyMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC4yMTYgWWFCcm93c2VyLzIxLjUuMy4wLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYyMzQxOTI2Nzt9
+
+#EXTINF:-1 tvg-logo="http://yesportal.online/hbo2.png" group-title="FILMES", HBO 2 HD(2)
+http://line.crystalott.net:80/PedroLedo/Y3DAUAL8RO/8489
+
+#EXTINF:-1 tvg-logo="http://yesportal.online/hbo2.png" group-title="FILMES", HBO 2 HD
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/hbo2_05a53e36_ae90e3ce343fafa5903777eea5b5b241d9543d1a/playlist.m3u8?jsf=YTozOntpOjA7czoxNDoiNDUuMjMzLjE0NC4xOTgiO2k6MTtzOjE2MDoiTW96aWxsYS81LjAgKExpbnV4OyBhcm07IEFuZHJvaWQgOTsgTE0tWDQyMCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzkwLjAuNDQzMC4yMTYgWWFCcm93c2VyLzIxLjUuMy4wLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYyMzQxOTQ1OTt9
+
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/edgLqKlZR1dB73duRSO3fgBqhOP_small.jpg" group-title="Series @ Lupin", Lupin S01 E01
+https://r3---sn-5uaeznks.googlevideo.com/videoplayback?expire=1623706741&ei=9VvHYIraHb6lrvIPyvqroAw&ip=209.126.9.123&id=c1b9cde933e08dfa&itag=18&source=blogger&mh=cT&mm=31&mn=sn-5uaeznks&ms=au&mv=m&mvi=3&pl=24&susc=bl&mime=video/mp4&vprv=1&dur=2834.901&lmt=1623448797984842&mt=1623677573&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAPwdbnEEbSFSIm43ZOzoR9JSIffV2lY0QTLYDcs3NV9uAiEA5fmwTXpjiIQnr8ZJ6z5sf89nCOMp29Tg17Wlpx2bHIk%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgEXmBZRsDV6cYxb1TZi8-yS5b4MMjYcYNvcYDemdi_ZkCIQD49g8CHboLM5pU5_6iFBr5cvuNFWGFeFX9daElwNz4dQ%3D%3D?type=video/mp4&title=video
+
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/71i63q3dtI3iSaEifHS72AvRbsl_small.jpg" group-title="Series @ Lupin", Lupin S01 E02
+https://r5---sn-5ualdne7.googlevideo.com/videoplayback?expire=1623738452&ei=1NfHYP6CO8eD6QKe2baYAg&ip=209.126.9.123&id=3fd8b178d0d03b29&itag=18&source=blogger&mh=Sr&mm=31&mn=sn-5ualdne7&ms=au&mv=m&mvi=5&pl=24&susc=bl&mime=video/mp4&vprv=1&dur=3136.714&lmt=1623448643556713&mt=1623709488&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAOpPDZts2KBZ9EkCP1Gvytmhp0dLlJM340UK08n4Zo9DAiEA3tE_jzhlm_E_ufFSFefdIDiQKMquzi-y2KnQja7uGYQ%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAJYBBJtLNmtEf2jeefW-brcI9hGELm5PkXaiDrReV0FmAiEAmiKGZ7-t8YqLQ0QoSMLUYIFK7l71C34kYISsU_rANjw%3D?type=video/mp4&title=video
+
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/7VcD2tQw5epoBmc8JyNGpVniV8X_small.jpg" group-title="Series @ Lupin", Lupin S01 E03
+https://r4---sn-5ualdnls.googlevideo.com/videoplayback?expire=1623742009&ei=ueXHYIqWI8eX6QKzgqGYAg&ip=209.126.9.123&id=8f86e4e45282b3d9&itag=18&source=blogger&mh=tc&mm=31&mn=sn-5ualdnls&ms=au&mv=m&mvi=4&pl=24&susc=bl&mime=video/mp4&vprv=1&dur=2520.781&lmt=1623448802820274&mt=1623712846&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIgbU6XB2uJy-EjrAjc_17riwCLVdwSpIKLbAERM5yO3tUCIQDZUOntJ2x6W7chLMJB9WQYnKp_CBKqU0H91-JDvrJIoA%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhANWuzVvUXNrjOx5lvzJ3idiZ47taAu1EWpybQWynV2CbAiARe0blr6kgcJtmu_cQHP786LBnW9MZSpkItgNMBXPGIg%3D%3D?type=video/mp4&title=video
+
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/9W14cjDqiXJTM3eVhoBPSujMy6D_small.jpg" group-title="Series @ Lupin", Lupin S01 E04
+https://r3---sn-5uaeznk7.googlevideo.com/videoplayback?expire=1623742392&ei=OOfHYOyZIc7sugLFg5_QCA&ip=209.126.9.123&id=0c3fc9ddaf7ce401&itag=18&source=blogger&mh=jX&mm=31&mn=sn-5uaeznk7&ms=au&mv=m&mvi=3&pl=24&susc=bl&mime=video/mp4&vprv=1&dur=2838.732&lmt=1623448918448223&mt=1623713328&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAIdrI5qPH8nwKVzepPiiSatIYpbXmPKkil4h4hfIEQDRAiEAzfucvaiYw9VGrBgt_xqrvL2dJ9YDKJlksCTea7ZzZpo%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAKS5JuOO5n3etSMAXj5aLLRHkZG64nBxRaPZB4Na-iRUAiAJ6o-rkEXZz8Y0e_6YaWn-ALkG4aRVMeNq9fx8Q3RFlQ%3D%3D?type=video/mp4&title=video
+
+#EXTINF:-1 tvg-logo="http://esrv.cc:80/images/eAnPhMtxJCdvrDfzTz8VGuMBCyS_small.jpg" group-title="Series @ Lupin", Lupin S01 E05
+https://r5---sn-5ualdnls.googlevideo.com/videoplayback?expire=1623742459&ei=eufHYMiJOo-n6QLv6b2ADw&ip=209.126.9.123&id=5abf8b4e5f96ef63&itag=18&source=blogger&mh=1l&mm=31&mn=sn-5ualdnls&ms=au&mv=m&mvi=5&pl=24&susc=bl&mime=video/mp4&vprv=1&dur=2598.730&lmt=1623448904066493&mt=1623713328&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAMCSm_4NlJFX8rECSjT0wNaVWDm7N-XUYWjUOkNJ9Ug_AiEA3k7_HBUbaSBe4xxqJw8-RyQn-l_smnriTqNzHM6dNy8%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIhAPdw0nZCJprUTu-uYpXmFWxcteJ9OCagAPhbbV2l-EYwAiBV9k260GdU3TvRxJXQP_EI7gxlDREXGbNrst-R5QuYjA%3D%3D?type=video/mp4&title=video
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/jfpWnI2oJktIFD0hBoZ91fIPQ7n.jpg" group-title="Series @ Lupin", Lupin S01 E06
+https://r2---sn-bg0eznlz.googlevideo.com/videoplayback?expire=1623724660&ei=9KHHYKuwNNacmvUPrMOzoA8&ip=209.126.9.123&id=0d221f0edca9a2c9&itag=18&source=blogger&susc=bl&mime=video/mp4&vprv=1&dur=2554.868&lmt=1623449284946135&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRAIgHq4I2VqoLBHWZe5_Bjw4UCXs1UxbTGhWAcRkEwQPVesCIGdECx80jAZZ5oqhMdReBajJkBEzeLB_ACyN2tKIouu1&type=video/mp4&title=video&rm=sn-5uars7l&req_id=f9e64f6e42f836e2&ipbypass=yes&redirect_counter=2&cm2rm=sn-qhjuxaxjvhcg-2o1e7e&cms_redirect=yes&mh=CX&mip=45.233.144.198&mm=29&mn=sn-bg0eznlz&ms=rdu&mt=1623695812&mv=m&mvi=2&pl=24&lsparams=ipbypass,mh,mip,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgGslui5oLuaBXR7G9UH_IBspFrGjul1megabNQzR--cYCIQDq160ACdeNnqoeyXljJgMOEYqjSX4X78Ugl5hlYnxofA%3D%3D
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/ppOlBCFMZ6OoFNlqboSuxAzYlGV.jpg" group-title="Series @ Lupin", Lupin S01 E07
+https://r4---sn-5uaezny6.googlevideo.com/videoplayback?expire=1623725315&ei=g6THYI37L_-C_tcP3v2tiA8&ip=209.126.9.123&id=3a2d34868caa9fa5&itag=18&source=blogger&mh=Gm&mm=31&mn=sn-5uaezny6&ms=au&mv=m&mvi=4&pl=24&susc=bl&mime=video/mp4&vprv=1&dur=2614.868&lmt=1623449000102866&mt=1623696293&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhAK8IaQsjSSpXs2AuDtZMcnLI_4cbNcf4AMu6I2a7TObvAiEAhmWAaQRK26HwDvBX_0FbL6T0n6rZVnFOIJlTiO4FpYE%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRgIhAOwUzqJ55JF1lFsqETtZr8HmHsvjIfnmkEbt8nmDhn1oAiEAxhwKll3lU1pbATOotSIELQRR96CFhpJ0FfWbGIupjjs%3D?type=video/mp4&title=video
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/2zToF3bdwh0oSpaAbrHezZ7H8lx.jpg" group-title="Series @ Lupin", Lupin S01 E08
+https://r1---sn-5uaeznyz.googlevideo.com/videoplayback?expire=1623725492&ei=NKXHYOiqFIT6uwKCyooo&ip=209.126.9.123&id=543248bab25268cf&itag=18&source=blogger&mh=r8&mm=31&mn=sn-5uaeznyz&ms=au&mv=m&mvi=1&pl=24&susc=bl&mime=video/mp4&vprv=1&dur=2458.877&lmt=1623449361843243&mt=1623696293&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRgIhANY7Qvzmp8qhrOl9UN5ngtv5WTnoh_zUij0DmgoBQZKiAiEA7If7YyW-0XHEo16WBUj-WOc8XK8wGbHqIC-aUgYPWPg%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRQIgTtdMEsscAYXdcIUHBG13sRqxqFtvpgDsEJO17uPhudICIQDtumvqIi6UzmeOdxGdpKmwye5-CV8MKEG0PscfonlUHQ%3D%3D?type=video/mp4&title=video
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/tgsXccjn6bVFqJwtTr97WuOm1Z9.jpg" group-title="Series @ Lupin", Lupin S01 E09
+https://r3---sn-5uaezny6.googlevideo.com/videoplayback?expire=1623725673&ei=6aXHYOO2OJWkuALVtpjIBA&ip=209.126.9.123&id=13447a15e2e2e512&itag=18&source=blogger&mh=aR&mm=31&mn=sn-5uaezny6&ms=au&mv=m&mvi=3&pl=24&susc=bl&mime=video/mp4&vprv=1&dur=2836.851&lmt=1623449379460280&mt=1623696293&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRQIhAIpB9hv1MtvuuQzrvnXzSXkmAy85zawrFcI8VEw7OKyBAiBLDK83r1yjBeuytfwoTQshVKswQsrF1x-mw5I-aCnQcg%3D%3D&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgDcp8dgAsbM9C0cFpuhj2zorm-OFHJYcq6Wvn_8_0uvgCIDhjk6Bljq3x55ANwBcHKMl-5xRr2KAk95rOYX9-VmoF?type=video/mp4&title=video
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w300/8r8dgHAINYk6SuZvKbjS0df8Rjs.jpg" group-title="Series @ Lupin", Lupin S01 E10
+https://r4---sn-5ualdne7.googlevideo.com/videoplayback?expire=1623725953&ei=AafHYKnqEOuX2_gPuNWm4A0&ip=209.126.9.123&id=3f149086dd453d38&itag=18&source=blogger&mh=L-&mm=31&mn=sn-5ualdne7&ms=au&mv=m&mvi=4&pl=24&susc=bl&mime=video/mp4&vprv=1&dur=3022.843&lmt=1623449353428501&mt=1623696767&txp=1311224&sparams=expire,ei,ip,id,itag,source,susc,mime,vprv,dur,lmt&sig=AOq0QJ8wRAIgFqzTrAa5jdpB8IjIMXA0Qh6Mb7mJ8SUv0gZwIqiqTEQCIAHyoXem84dSwjEQfJnScuNqyoIGBocQQLzC8Dwj0Cjo&lsparams=mh,mm,mn,ms,mv,mvi,pl&lsig=AG3C_xAwRAIgCMLN5sIddJbg73VQojunEG5ibpqpH7AYeuB50r47--kCIGHToKos1P1wAEO1Q-7qIPwqXtSmqloBna8QrHFB7tkf?type=video/mp4&title=video
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/classificacao-18-anos-logo.png" group-title="ADULTOS", BRASILEIRINHAS
+http://pfsv.io:80/FZ1Zb1s/iMGurL.me/44184
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/classificacao-18-anos-logo.png" group-title="ADULTOS", VÊNUS
+http://tvla.xyz:80/rukdamem/diP602j2zE/35404
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/classificacao-18-anos-logo.png" group-title="ADULTOS", SEX HOT
+http://tv1.cs10.tv:80/leopoldo/leopoldo/11266
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FILMES", SPACE
+https://edge-aws.aovivotv.xyz/hls/s:88.198.239.170/space_e6c3dd63_e8af96764e5f0e80bf0f0390bd3a9432b035ebac/playlist.m3u8?jsf=YTozOntpOjA7czoxMjoiMTcyLjcwLjU0Ljc5IjtpOjE7czoxNjE6Ik1vemlsbGEvNS4wIChMaW51eDsgYXJtOyBBbmRyb2lkIDk7IExNLVg0MjApIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MC4wLjQ0MzAuMjE2IFlhQnJvd3Nlci8yMS41LjMuNjIuMDAgKGFscGhhKSBTQS8zIE1vYmlsZSBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIzOTU1NTc2O30%3D
+
+#EXTINF:-1 tvg-logo="https://logodix.com/logo/2138564.jpg" group-title="FILMES", CINEMAX
+https://edge-aws.aovivotv.xyz/hls/s:88.198.163.51/cinemax_22d200f8_96faed3ca95bb3ebb703d95dd1bbefa7338a700b/playlist.m3u8?jsf=YTozOntpOjA7czoxNToiMTA4LjE2Mi4yMTIuMTQ0IjtpOjE7czoxNjE6Ik1vemlsbGEvNS4wIChMaW51eDsgYXJtOyBBbmRyb2lkIDk7IExNLVg0MjApIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS85MC4wLjQ0MzAuMjE2IFlhQnJvd3Nlci8yMS41LjMuNjIuMDAgKGFscGhhKSBTQS8zIE1vYmlsZSBTYWZhcmkvNTM3LjM2IjtpOjI7aToxNjIzOTU1NDI0O30%3D
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/07/canal-axn-logo.png" group-title="FILMES", AXN
+https://edge-aws.aovivotv.xyz/hls/s:209.126.108.100:81/axn_cb7a1d77_2c8c65ec80b75518f05695fb0a28378fd002cc42/playlist.m3u8?jsf=YTozOntpOjA7czoxMzoiMTcyLjcwLjgyLjEwOSI7aToxO3M6MTYxOiJNb3ppbGxhLzUuMCAoTGludXg7IGFybTsgQW5kcm9pZCA5OyBMTS1YNDIwKSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvOTAuMC40NDMwLjIxNiBZYUJyb3dzZXIvMjEuNS4zLjYyLjAwIChhbHBoYSkgU0EvMyBNb2JpbGUgU2FmYXJpLzUzNy4zNiI7aToyO2k6MTYyMzk1NTMwMzt9
+
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2018/04/megapix-logo.png" group-title="FILMES", MEGAPIX
+http://199.127.62.234:2082/streams/171_5121.ts
